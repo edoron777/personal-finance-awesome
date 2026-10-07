@@ -40,6 +40,7 @@
 1. [The Calculator World](https://thecalculatorworld.com) - free calculators for **India** - EMI, SIP, compound interest, mortgage, GST and unit conversions; no sign-up
 1. [StockAvg](https://stockavg.com/) - free stock average cost and cost basis calculators (average down, DCA, DRIP, splits, position size, market cap, options at expiration); no sign-up, and the rounding rule is published
 1. [SmartBizCalc](https://smartbizcalc.com) - free small business financial calculators covering self-employment tax, payroll taxes, contractor pricing, 1099 vs W-2 comparison, S-corp savings, break-even analysis, startup costs, and 600+ more; no sign-up required
+1. [NeedTheseApps](https://needtheseapps.com/apps/financial/) - free calculators for saving, growth and retirement, in plain words; assumptions shown and changeable, figures stay in the browser, a free Excel version of each, no sign-up
 
 ### Subscription management
 
@@ -102,6 +103,7 @@
 1. [Ghost Money](https://ghost-money.surge.sh/) - free board marking 2026 rebate, tax-credit, and debt-forgiveness ads as alive or dead (expired or scam), each with its IRS/agency source, plus a paste-an-ad checker; no sign-up
 1. [Roth Conversion Calculator](https://runwayretirement.com/tools/roth-conversion-calculator.html) - free, no-signup Roth conversion decision tool: current vs. expected future tax rate, conversion amount, years of tax-free growth, estimated dollar savings (shows when converting loses money too)
 1. [Truthifi](https://truthifi.com) - One verified record of a household's accounts, holdings and fees, reviewed every night and scored, with an MCP server that brings it into your AI assistant
+1. [Savings Withdrawal Calculator](https://needtheseapps.com/apps/financial/savings-withdrawal-calculator/) - free calculator for how long savings last with fixed monthly withdrawals, including tax on the gain part of each withdrawal and inflation; no sign-up
 
 ### 401K analyzers
 
